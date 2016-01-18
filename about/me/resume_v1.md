@@ -1,4 +1,4 @@
-> 另附个人在线版简历网址：[**请复制链接在浏览器下点击查看**](http://htmlpreview.github.io/?https://github.com/ArtinHuang/artinhuang_re/blob/master/about/me/resume_v1_md.html)
+> 另附个人在线版简历网址：[**请复制链接在浏览器下点击查看**](http://htmlpreview.github.io/?https://github.com/ArtinHuang/artinhuang_re/blob/master/about/me/resume_v1.md.html)
 
 # 简历 via 黄志伟
 
