@@ -27,11 +27,11 @@
 - **计算机编程：**
 	- 前端：了解 HTML / CSS / JavaScript / Bootstrap 框架。
 	- 后端：了解 C / Java / Python / Android，学习过面对对象编程思想。
-	- 了解 Linux / Windows环境下编程。
-	- 了解 Git 使用方法。
+	- 了解 Linux / Windows 环境下编程。
+	- 了解 Git 和 GitHub 使用方法。
 - **外语能力：**
 	- 通过大学英语四级。
-	- 借助Google translate等工具，能够基本无障碍浏览阅读外国网站。
+	- 借助Google translate 等工具，能够基本无障碍浏览阅读外国网站。
 
 ### 4. 业余项目
 
@@ -39,7 +39,7 @@
 	- **流光**：
 	在校期间与同学合办，最早于2014年5月建立面对高校学子的自媒体公众号，现因为时间精力等原因已停办。微信公众号：**`liuguangmedia`**
 	- **负熵**：
-	创立于2015年12月一个基于话题与分享的个人自媒体公众号，在**微信公众平台和 [知乎专栏](http://zhuanlan.zhihu.com/entropy-)，[今日头条号](http://toutiao.com/m5862524235/)，[简书](http://www.jianshu.com/users/cb843ce414fc/latest_articles)**等内容平台进行同步更新，目前单篇文章最高阅读量超过1万两千人次左右，目前还在继续运营中，微信公众号：`Entropy-`)
+	创立于2015年12月一个基于话题与分享的个人自媒体公众号，在**微信公众平台和 [知乎专栏](http://zhuanlan.zhihu.com/entropy-)，[今日头条号](http://toutiao.com/m5862524235/)，[简书](http://www.jianshu.com/users/cb843ce414fc/latest_articles)**等内容平台进行同步更新，目前单篇文章最高阅读量超过1万两千人次左右，目前还在继续运营中，微信公众号：**`Entropy-`**
 
 - **参与过的开源项目：**
 	- **[CodeCombat](https://github.com/codecombat/codecombat)**：中译名为「代码战争」，一个开源的游戏化编程项目，同时也是GitHub上最大的开源CoffeeScript项目，主要负责项目语言的本地化工作。
